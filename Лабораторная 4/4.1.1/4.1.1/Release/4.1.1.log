@@ -1,0 +1,9 @@
+﻿  Shuffle.cpp
+Shuffle.cpp(40): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+Shuffle.cpp(102): warning C4102: dialog2: неиспользованная метка
+  Создание кода
+  2 of 125 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  4.1.1.vcxproj -> D:\УчДНУ\Официальная учебная программа\2 курс\ООП\Лабораторные\Лабораторная 4\4.1.1\Release\4.1.1.exe
